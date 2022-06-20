@@ -25,7 +25,7 @@
                 android:layout_height="wrap_content"
                 android:text="News Feed"
                 android:textStyle="bold"
-                android:textSize="22sp"
+                android:textSize="21sp"
                 android:textColor="#03A9F4"
                 />
 
